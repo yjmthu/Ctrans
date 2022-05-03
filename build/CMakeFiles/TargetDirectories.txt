@@ -1,0 +1,6 @@
+/home/yjmthu/Documents/GitHub/NeteaseYoudao/build/CMakeFiles/yd.dir
+/home/yjmthu/Documents/GitHub/NeteaseYoudao/build/CMakeFiles/edit_cache.dir
+/home/yjmthu/Documents/GitHub/NeteaseYoudao/build/CMakeFiles/rebuild_cache.dir
+/home/yjmthu/Documents/GitHub/NeteaseYoudao/build/yjson/CMakeFiles/yjson.dir
+/home/yjmthu/Documents/GitHub/NeteaseYoudao/build/yjson/CMakeFiles/edit_cache.dir
+/home/yjmthu/Documents/GitHub/NeteaseYoudao/build/yjson/CMakeFiles/rebuild_cache.dir
